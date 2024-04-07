@@ -1,5 +1,5 @@
 #!/bin/bash
-elpais="USA"
+elpais="$1"
 echo "Hola, yo pregunto cosas"
 echo "Cual es la población de $elpais?"
 
